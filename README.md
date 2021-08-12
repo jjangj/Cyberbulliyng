@@ -1,2 +1,2 @@
-# reconocimiento_cyberacoso_mujeres
+Modelo de Deep Learning BERT para reconhecimento de Cyberbullying em tweets em português-br
  
